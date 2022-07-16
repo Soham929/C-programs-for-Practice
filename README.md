@@ -1,2 +1,1 @@
-# Community-classroom-Git
-Just a random repo.
+Here you can find useful C programs for practice.
